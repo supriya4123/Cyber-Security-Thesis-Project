@@ -1,0 +1,14 @@
+pip install bcrypt
+pip install ttkthemes
+pip install pillow
+pip install Crypto
+python -m pip install --upgrade pip
+pip install pycryptodome
+pip install pycrypto
+pip install pycryptodomex
+
+pip install cryptography
+
+
+pip install scipy
+
